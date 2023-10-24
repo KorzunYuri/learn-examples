@@ -10,6 +10,7 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>reactor-publish-subscribe</module>
+        <module>jmh-benchmarking</module>
     </modules>
 
     <properties>
