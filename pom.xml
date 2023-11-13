@@ -11,6 +11,7 @@
     <modules>
         <module>reactor-publish-subscribe</module>
         <module>jmh-benchmarking</module>
+        <module>multithreading</module>
     </modules>
 
     <properties>
@@ -18,4 +19,13 @@
         <maven.compiler.target>17</maven.compiler.target>
     </properties>
 
+    <dependencyManagement>
+        <dependencies>
+            <dependency>
+                <groupId>org.projectlombok</groupId>
+                <artifactId>lombok</artifactId>
+                <version>1.18.28</version>
+            </dependency>
+        </dependencies>
+    </dependencyManagement>
 </project>
