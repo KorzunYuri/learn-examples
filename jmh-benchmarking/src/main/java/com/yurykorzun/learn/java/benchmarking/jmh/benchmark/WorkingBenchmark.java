@@ -1,4 +1,4 @@
-package com.yuryukorzun.learn.java.benchmarking.jmh.benchmark;
+package com.yurykorzun.learn.java.benchmarking.jmh.benchmark;
 
 import org.openjdk.jmh.annotations.*;
 import org.openjdk.jmh.infra.Blackhole;

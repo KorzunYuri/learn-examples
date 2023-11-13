@@ -1,4 +1,4 @@
-package com.yuryukorzun.learn.java.benchmarking.jmh;
+package com.yurykorzun.learn.java.benchmarking.jmh;
 
 public class BenchmarksRunner {
 
